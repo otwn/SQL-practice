@@ -1,0 +1,57 @@
+┌───────────────────────────────────────────┐
+│                   name                    │
+│                  varchar                  │
+├───────────────────────────────────────────┤
+│ L_emp_projects                            │
+│ L_employees                               │
+│ L_projects                                │
+│ a_customers                               │
+│ a_guests                                  │
+│ a_hosts                                   │
+│ a_orders                                  │
+│ a_reviews                                 │
+│ a_search_details                          │
+│ a_transactions                            │
+│ airbnb_contacts                           │
+│ airbnb_searches                           │
+│ b_scores                                  │
+│ car_launches                              │
+│ car_rides_log                             │
+│ car_users                                 │
+│ db_dept                                   │
+│ db_employee                               │
+│ f_asia_energy                             │
+│ f_employees                               │
+│ f_eu_energy                               │
+│ f_friend_requests                         │
+│ f_hack_survey                             │
+│ f_na_energy                               │
+│ f_post_views                              │
+│ f_posts                                   │
+│ f_reactions                               │
+│ f_search_events                           │
+│ f_search_results                          │
+│ fb_confirmers                             │
+│ fb_messages                               │
+│ fb_sms_sends                              │
+│ google_adwords_earnings                   │
+│ google_gmail_emails                       │
+│ los_angeles_restaurant_health_inspections │
+│ marketing_campaign                        │
+│ mlb_player_stats_batters                  │
+│ ms_emp_projects                           │
+│ ms_employee_salary                        │
+│ ms_projects                               │
+│ orders                                    │
+│ postmates_markets                         │
+│ postmates_orders                          │
+│ s_employee                                │
+│ sf_restaurant_health_violations           │
+│ winemag_p1                                │
+│ winemag_p2                                │
+│ y_business                                │
+│ y_reviews                                 │
+│ z_transactions                            │
+├───────────────────────────────────────────┤
+│                  50 rows                  │
+└───────────────────────────────────────────┘
